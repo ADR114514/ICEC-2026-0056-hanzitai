@@ -19,7 +19,7 @@
 | 24 条原始时序 | [合并批次表](raw_data/campaign_PC-20261123-002.csv) · [四个工况单表及原始日志](raw_data/) · [原始文件校验](SHA256SUMS-raw.txt)。条数与工况齐全；按真实时间审计，不把计划点当实测。 |
 | 电量与温度 | [实测时间折线](results/temperature_and_battery.png) · [时间和异常逐点标注](results/sample_timing.csv)。已有电池温度和系统读数，没有外壳分区温度、环境温度及热成像，不能声称测出了机身热分布。 |
 | 功耗、模块分析及省电策略 | [有效功率窗与均值图](results/power_windows.png) · [逐窗电荷计复算](results/observed_power_windows.csv) · [工况核对表](results/condition_audit.csv) · [分析报告](报告.md)。 |
-| 实测证据 | [App 结果长图](evidence/app-results.jpg)可说明手机导出界面，不是现场同框照；此次未提供现场同框照，也无法由日志确认校园点位。 |
+| 实测证据 | [App 结果长图](evidence/app-results.jpg)对应已归档批次；[补充现场同框照](evidence/power-test-field.jpg)展示课题 02 的实际采集操作。照片画面批次 PC-20261123-003 与原始 CSV 批次 PC-20261123-002 不同。 |
 
 ![真实时间轴上的电池温度和百分比](results/temperature_and_battery.png)
 

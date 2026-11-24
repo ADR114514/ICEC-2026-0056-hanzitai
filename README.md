@@ -17,6 +17,5 @@
 - [第一阶段报告、实拍照片、原始 CSV](01-Field-Discovery/)
 - [第二阶段源码、过程日志与迭代记录](02-20Days-Challenge/)
 - [AI 协作与排障记录](03-AI-Collaboration/)
-- [逐项交付核对清单](提交核对.md)
 
 [官网考核大纲](https://icec.openkub.com/assessment.html) · [官网正式提交](https://icec.openkub.com/submit.html)

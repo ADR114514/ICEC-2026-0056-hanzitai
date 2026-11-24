@@ -1,5 +1,5 @@
 # Keep original measurement CSV, JSON and logs byte-identical.
 01-Field-Discovery/**/raw_data/** -text
 01-Field-Discovery/**/follow-up-export/** -text
-02-20Days-Challenge/03-vibrodiag/raw_data/** -text
+02-20Days-Challenge/process_logs/03-vibrodiag/raw_data/** -text
 *.wav filter=lfs diff=lfs merge=lfs -text

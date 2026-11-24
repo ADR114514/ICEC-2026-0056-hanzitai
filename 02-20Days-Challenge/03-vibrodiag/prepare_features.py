@@ -27,7 +27,7 @@ HERE = Path(__file__).resolve().parent
 FEATURES_PATH = HERE / "features.py"
 if not FEATURES_PATH.is_file():
     FEATURES_PATH = HERE.parent / "phone-lab" / "analysis" / "vibro" / "features.py"
-DEFAULT_SOURCE = HERE / "raw_data"
+DEFAULT_SOURCE = HERE.parent / "process_logs" / "03-vibrodiag" / "raw_data"
 SESSION = "VD-20261122-002"
 CONDITIONS = (
     "C1_NORMAL_LOW", "C2_NORMAL_HIGH", "C3_IMBALANCE", "C4_BLOCKED", "C5_HAIRDRYER",
